@@ -1,0 +1,14 @@
+** Sempre pesquisar os erros, warnings e fatal.
+** StackOverFlow top top
+** Buscar os erros de gramatica no google
+** var_dump() indica os tipos da variavel e tal
+** colocar - na frente da variavel faz ela ficar negativa
+** Ordem dos operadores aritmeticos
+    ** ** (elevado)
+    ** * / %
+    ** + -
+** Operadores bitWise
+** PHP_EOL quebra linha
+**print_r testa arrays
+** if ternario
+** condição ? case true : case false
